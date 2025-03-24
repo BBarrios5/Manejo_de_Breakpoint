@@ -81,7 +81,5 @@ En específico, desarrollamos un programa para calcular el factorial de un núme
 
 Este laboratorio me permitió entender mejor cómo funciona la ejecución interna de programas mediante herramientas visuales de depuración y cómo hacer programas más seguros usando excepciones. Además, comprendí claramente el funcionamiento de las funciones recursivas y su impacto en el desempeño del software.
 
----
 
-📌 **Nota:** Cambia los datos en `[ ]` antes de subir este README a GitHub.
 
